@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="vYo-Ww-qCk">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Property Detail View Controller-->
+        <scene sceneID="p6M-XG-Zlz">
+            <objects>
+                <viewController id="vYo-Ww-qCk" customClass="PropertyDetailViewController" customModule="PropertyList" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Bfx-HR-uDb">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Jj7-R1-O3e">
+                                <rect key="frame" x="-10.666666666666657" y="59" width="414.33333333333326" height="240"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="240" id="Ek5-cE-k8N"/>
+                                    <constraint firstAttribute="width" constant="414" id="xhn-Pq-tJO"/>
+                                </constraints>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ASA-jj-ocH">
+                                <rect key="frame" x="16" y="411" width="361" height="441"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="441" id="8UF-zW-7oi"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                        <attributes>
+                                            <color key="NSColor" systemColor="labelColor"/>
+                                            <font key="NSFont" metaFont="system" size="14"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineHeightMultiple="1.5" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S7V-hD-ctl">
+                                <rect key="frame" x="16" y="307" width="52" height="71"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="ymI-Jx-Ma6"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="S7V-hD-ctl" firstAttribute="top" secondItem="Jj7-R1-O3e" secondAttribute="bottom" constant="8" id="9rW-g5-i0I"/>
+                            <constraint firstItem="ASA-jj-ocH" firstAttribute="leading" secondItem="S7V-hD-ctl" secondAttribute="leading" id="Mlh-gW-JkQ"/>
+                            <constraint firstItem="ASA-jj-ocH" firstAttribute="top" secondItem="S7V-hD-ctl" secondAttribute="bottom" constant="33" id="NUP-AN-PNb"/>
+                            <constraint firstItem="ASA-jj-ocH" firstAttribute="leading" secondItem="Bfx-HR-uDb" secondAttribute="leadingMargin" id="OpQ-r8-5C2"/>
+                            <constraint firstItem="Jj7-R1-O3e" firstAttribute="top" secondItem="ymI-Jx-Ma6" secondAttribute="top" id="U89-wi-Xaj"/>
+                            <constraint firstItem="Jj7-R1-O3e" firstAttribute="centerX" secondItem="Bfx-HR-uDb" secondAttribute="centerX" id="bsU-H7-W3J"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="ASA-jj-ocH" secondAttribute="bottom" constant="-34" id="jy4-Fg-FgH"/>
+                            <constraint firstItem="Jj7-R1-O3e" firstAttribute="centerX" secondItem="ASA-jj-ocH" secondAttribute="centerX" id="lKf-Sn-CYM"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="addressTextView" destination="ASA-jj-ocH" id="fwW-xU-TlV"/>
+                        <outlet property="bannerImageView" destination="Jj7-R1-O3e" id="XxE-3p-rwB"/>
+                        <outlet property="priceLabel" destination="S7V-hD-ctl" id="bBY-qT-P27"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ElK-lm-JYo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-43.511450381679388" y="22.535211267605636"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

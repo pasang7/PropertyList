@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D49D3BD6-760B-4ACA-865A-697E9314AC98"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55957E05-ABE2-4FD5-B7F2-E7A18935B69B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyList/Model/PropertyModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyList/PropertiesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PropertiesListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - 45e00093fd029594"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.model.getter : PropertyList.PropertyModel"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - e95f59a296577b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.model.setter : PropertyList.PropertyModel"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - 1eeea8a488854a95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.model.modify : PropertyList.PropertyModel"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - 427c86ed6f3bad3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.model.modify : PropertyList.PropertyModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - 522577b82516e2b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.PropertiesListViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "561BDBFC-6795-4BCE-A32A-5E9C2618DA92 - a13a4ff080de9ffd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.PropertiesListViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16581206-496C-40DC-907D-748EB78ECD74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyList/PropertiesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PropertiesListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - 217a323044b7ebf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - 478378370df9bffb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - 884508bc0fea7676"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - 81d974e5563d14bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - 522577b82516e2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.PropertiesListViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "16581206-496C-40DC-907D-748EB78ECD74 - a13a4ff080de9fbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.PropertiesListViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyList/PropertiesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PropertiesListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143 - 4caf3af06435a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.PropertiesListViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143 - 522577b82516e2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.PropertiesListViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143 - 4c908f6b2ad44c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.PropertiesListViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143 - a13a4ff080de9fbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.PropertiesListViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A22ABEDE-DB87-4958-8254-37D9D6AC6143 - da1bd94e3850d630"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.PropertiesListViewController.__deallocating_deinit"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/PropertiesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyList/WatchedPropertiesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "WatchedPropertiesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - cdaa977837878d90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.watchedTableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 1fd453a478d3884"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.watchedTableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - dcf3932a031b17f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.watchedTableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 888222c1b3ee4e0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.watchedTableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - ebf140fb5b14d65f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.WatchedPropertiesViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 340c253239eb5d58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.WatchedPropertiesViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 98368c65e0c7e7bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 72f2e12e9a05b3a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - ccd8cfa4e8337b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 71fc8cc756d3c1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - ebf140fb5b14d67e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PropertyList.WatchedPropertiesViewController"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "14B09F2A-511C-42F5-9E0D-9E2F1E469696 - 340c253239eb5d79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyList.WatchedPropertiesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PropertyList.WatchedPropertiesViewController&gt;"
+                  moduleName = "PropertyList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasangyangjitamang/Desktop/PropertyList/PropertyList/WatchedPropertiesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

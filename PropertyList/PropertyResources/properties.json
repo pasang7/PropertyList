@@ -1,0 +1,72 @@
+[
+{
+"address": "10 Main Street,Cairns,Qld",
+"imageName": "PropertyResources/house1.jpg",
+"thumbnailName": "PropertyResources/thumbnail_house1.jpg",
+"type": "house",
+"price": "450,000"
+},
+{
+"address": "55 Campbell Street,Paramatta,Nsw",
+"imageName": "PropertyResources/house2.jpg",
+"thumbnailName": "PropertyResources/thumbnail_house2.jpg",
+"type": "house",
+"price": "150,000"
+},
+{
+"address": "13 Victoria Road,Chatswood,Nsw",
+"imageName": "PropertyResources/house3.jpg",
+"thumbnailName": "PropertyResources/thumbnail_house3.jpg",
+"type": "house",
+"price": "890,000"
+},
+{
+"address": "79 Rusell Lea,Bay Road,NSW",
+"imageName": "PropertyResources/land1.jpg",
+"thumbnailName": "PropertyResources/thumbnail_land1.jpg",
+"type": "land",
+"price": "690,000"
+},
+{
+"address": "13 Knekm St, Canberra, ACT",
+"imageName": "PropertyResources/land2.jpg",
+"thumbnailName": "PropertyResources/thumbnail_land2.jpg",
+"type": "land",
+"price": "709499"
+},
+{
+"address": "10 Hampdon Road,Cairns,VIC",
+"imageName": "PropertyResources/land3.jpg",
+"thumbnailName": "PropertyResources/thumbnail_land3.jpg",
+"type": "land",
+"price": "1978,099"
+},
+{
+"address": "69 Meet Street, Ryde ,NSW",
+"imageName": "PropertyResources/unit3.jpg",
+"thumbnailName": "PropertyResources/thumbnail_unit3.jpg",
+"type": "unit",
+"price": "700,000"
+},
+{
+"address": "Sutherland Road, Queensland, QLD",
+"imageName": "PropertyResources/unit2.jpg",
+"thumbnailName": "PropertyResources/thumbnail_unit2.jpg",
+"type": "unit",
+"price": "355,599"
+},
+{
+"address": "10 Main Street,Ryadelmare, Qld",
+"imageName": "PropertyResources/house1.jpg",
+"thumbnailName": "PropertyResources/thumbnail_house1.jpg",
+"type": "house",
+"price": "155,999"
+},
+{
+"address": "45-89 George St, Townhall, VIC",
+"imageName": "PropertyResources/unit1.jpg",
+"thumbnailName": "PropertyResources/thumbnail_unit1.jpg",
+"type": "unit",
+"price": "999,899"
+}
+]
